@@ -1,4 +1,4 @@
-# pytudes
+# pytudes-完善编程技巧Python程序。
 
 "An *étude* (a French word meaning *study*) is an instrumental musical composition, usually short, of considerable difficulty, and designed to provide practice material for perfecting a particular musical skill." &mdash; [Wikipedia](https://en.wikipedia.org/wiki/%C3%89tude)
 
